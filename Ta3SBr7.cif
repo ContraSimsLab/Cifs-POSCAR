@@ -1,0 +1,90 @@
+
+#(C) 2024 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_51101-ICSD
+_database_code_ICSD 51101
+_audit_creation_date 2001-07-16
+_audit_update_record 2006-04-01
+_chemical_name_common 'Tritantalum(III) sulfide heptabromide'
+_chemical_formula_structural 'Ta3 S Br7'
+_chemical_formula_sum 'Br7 S1 Ta3'
+_exptl_crystal_density_diffrn 6.9
+_diffrn_ambient_temperature 296.
+_citation_title
+
+;
+Ta3 S Br7 - A new structure type in the M3 Q X7 family (M= Nb, Ta; Q = S, Se,
+Te; X= Cl, Br, I)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1998 140 226 232 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Smith, M.'
+primary 'Miller, G.J.'
+_cell_length_a 12.249(2)
+_cell_length_b 7.071(1)
+_cell_length_c 8.829(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 134.421(8)
+_cell_angle_gamma 90.
+_cell_volume 546.16
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'C 1 m 1'
+_space_group_IT_number 8
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta3+ 3
+Br1- -1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ta1 Ta3+ 2 a 0.9643 0 0.6138 . 1.
+Ta2 Ta3+ 4 b 0.1662(2) 0.2025(1) 0.6129(3) . 1.
+Br1 Br1- 2 a 0.6553(7) 0 0.393(1) . 1.
+Br2 Br1- 2 a 0.7111(7) 0 0.8380(8) . 1.
+Br3 Br1- 2 a 0.1327(7) 0 0.3444(8) . 1.
+Br4 Br1- 4 b 0.9638(5) -0.2537(8) 0.8384(6) . 1.
+Br5 Br1- 4 b 0.8799(5) -0.2539(8) 0.3454(5) . 1.
+S1 S2- 2 a 0.243(2) 0 0.886(2) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ta1 Ta3+ 0.009(1) 0.0087(8) 0.010(1) 0 0.0075(9) 0
+Ta2 Ta3+ 0.0088(6) 0.0074(5) 0.0112(6) -0.0012(6) 0.0082(5) -0.0007(6)
+Br1 Br1- 0.013(3) 0.011(3) 0.016(2) 0 0.013(2) 0
+Br2 Br1- 0.021(3) 0.010(3) 0.013(2) 0 0.014(3) 0
+Br3 Br1- 0.019(3) 0.013(3) 0.018(3) 0 0.016(3) 0
+Br4 Br1- 0.011(2) 0.014(2) 0.014(2) 0.005(2) 0.009(2) 0.0058(6)
+Br5 Br1- 0.011(2) 0.013(2) 0.014(2) -0.006(2) 0.009(2) -0.0069(5)
+S1 S2- 0.009(7) 0.009(6) 0.015(6) 0 0.010(6) 0
+#End of TTdata_51101-ICSD
